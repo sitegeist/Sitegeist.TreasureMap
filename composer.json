@@ -1,0 +1,19 @@
+{
+    "description": "Switch between multiple cache-backend via environment configuration.",
+    "type": "neos-package",
+    "name": "sitegeist/treasuremap",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "neos/flow": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sitegeist\\TreasureMap\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Sitegeist.TreasureMap"
+        }
+    }
+}
