@@ -38,6 +38,12 @@ Neos_Fusion_Content:
           database: 21 
 ```
 
+## Installation
+
+Sitegeist.TreasureMap is available via packagist run `composer require sitegeist/treasuremap` to install.
+
+We use semantic-versioning so every breaking change will increase the major-version number.
+
 ## Contribution
 
 We will gladly accept contributions. Please send us pull requests.
